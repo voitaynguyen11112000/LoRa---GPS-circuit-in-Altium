@@ -1,0 +1,13 @@
+Added Component: Designator=Hole1(SCREW/3M/7M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Hole2(SCREW/3M/7M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Hole3(SCREW/3M/7M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Hole4(SCREW/3M/7M)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Schematic_RX Member=Component Hole1 3mm
+Added Member To Class: ClassName=Schematic_RX Member=Component Hole2 3mm
+Added Member To Class: ClassName=Schematic_RX Member=Component Hole3 3mm
+Added Member To Class: ClassName=Schematic_RX Member=Component Hole4 3mm
+Added Room: Name=Schematic_RX
